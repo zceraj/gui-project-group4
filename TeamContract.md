@@ -8,8 +8,8 @@
 
 | Name | Email |
 |------|-------|
-| \<name\> | \<email\> |
-| \<name\> | \<email\> |
+| Zara Ceraj | ceraj.z@northeastern.edu |
+| Mateo Wu Chen | wuchen.m@northeastern.edu |
 
 ---
 
@@ -22,6 +22,8 @@ What are your goals for the project? What do you hope to accomplish? What skills
 - *e.g., Kai wants to pursue a career in UX and wants the project to be a portfolio piece*
 - *e.g., Rachel is taking a full course load – cannot do more than the bare minimum to pass*
 - *e.g., Lin has never done front end engineering but wants to do some script development for the project.*
+
+- Zara would like this to be a portfolio piece. 
 
 ## Grading Goals
 
